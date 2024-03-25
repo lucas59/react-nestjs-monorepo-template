@@ -1,0 +1,9 @@
+
+> backend@0.0.1 prebuild
+> rimraf dist
+
+
+> backend@0.0.1 build
+> nest build
+
+DeprecationWarning: 'getMutableClone' has been deprecated since v4.0.0. Use an appropriate `factory.update...` method instead, use `setCommentRange` or `setSourceMapRange`, and avoid setting `parent`.
